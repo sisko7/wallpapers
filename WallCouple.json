@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_main_ads": "admob",
+      "select_main_ads": "FACEBOOK",
       "select_backup_ads":"ADMOB",
       "main_ads_banner": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
       "main_ads_intertitial":"IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
@@ -42,18 +42,27 @@
     }
   ],
 
- 
   "Categories": [
     {
+      "id": 1,
+      "name_category": "Couple",
+      "image": "https://i.pinimg.com/564x/c1/ef/4f/c1ef4f29da785b27abbf1e48972aee11.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+   {
     "id": "0",
-    "name_category": "Couple1",
+    "name_category": "Couple",
     "title": "",
 
     "image": "https://i.pinimg.com/564x/c1/ef/4f/c1ef4f29da785b27abbf1e48972aee11.jpg"
   },
   {
     "id": "1",
-    "name_category": "Couple2",
+    "name_category": "Couple",
     "title": "",
 
     "image": "https://i.pinimg.com/564x/e8/81/93/e881935e4d849da522805c3532f05dbc.jpg"
