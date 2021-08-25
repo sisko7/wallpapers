@@ -24,21 +24,15 @@
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"Sad Music",
+      "image":"https://play-lh.googleusercontent.com/hLWqCu6gIyJpIk5oNdgiPIZ6Dgu-t1Ug3TRu2JOf1FUGcj3EmD82pNU5v8m9Pd7fOQ=s180",
+      "link":"https://play.google.com/store/apps/details?id=net.andromo.dev859428.app977284"
     },
     {
       "id":2,
-      "title":"Homescapes",
+      "title":"Rich Dad Poor Dad",
       "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "link":"https://play-lh.googleusercontent.com/kmp858OsTxXiDsUw9KXguOuHp2lhqfYv7-xY341rPuCeNzyfipTE3LvyKo3iIgzUHHk=s180
     }
   ],
 
