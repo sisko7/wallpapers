@@ -45,7 +45,7 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "couple",
+      "name_category": "Nature",
       "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
 
     }
@@ -53,379 +53,369 @@
 
   "Data":
   [
- {
-      "id": 1,
-      "name_category": "Couple",
-      "image": "https://i.pinimg.com/564x/c1/ef/4f/c1ef4f29da785b27abbf1e48972aee11.jpg"
-
-    }
-  ],
-
-  "Data":
-  [
-   {
-    "id": "0",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/c1/ef/4f/c1ef4f29da785b27abbf1e48972aee11.jpg"
-  },
   {
     "id": "1",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/e8/81/93/e881935e4d849da522805c3532f05dbc.jpg"
+    "image": "https://i.pinimg.com/564x/ff/a1/26/ffa126b1a119875eb8280383eeec080c.jpg"
   },
   {
     "id": "2",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/ee/b1/7f/eeb17f313f02f4e90289c466e09cfe24.jpg"
+  },
+  {
+    "id": "3",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/b9/18/66/b91866383d4b0ede985f005dfd249e93.jpg"
+  },
+  {
+    "id": "4",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/a0/cf/df/a0cfdf1c44797a2dc21fbafe655e9efa.jpg"
+  },
+  {
+    "id": "5",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/7a/7d/7a/7a7d7a5a28d620375d512662c1c29caf.jpg"
+  },
+  {
+    "id": "6",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/a5/75/25/a575258793f3afec439c6c3d45845426.jpg"
+  },
+  {
+    "id": "7",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/9b/1f/e9/9b1fe989a82dcf5dc68a33ec1ec66acb.jpg"
+  },
+  {
+    "id": "8",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/8f/59/fa/8f59fa9a5c69a61c8fd8135d31867e43.jpg"
+  },
+  {
+    "id": "9",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/9c/51/bd/9c51bd56eff61568b88abbc7e24883ed.jpg"
+  },
+  {
+    "id": "10",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/54/46/86/544686ca2fb1a301ceb8c8deb4730611.jpg"
+  },
+  {
+    "id": "11",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/ec/ec/02/ecec027d2d00885d0c3e4a874946dafb.jpg"
+  },
+  {
+    "id": "12",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/72/b3/99/72b399c0b9c4b8ee7a424b4dcae54b57.jpg"
+  },
+  {
+    "id": "13",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/1b/e4/87/1be487333d2b857b06c056277ae62c2c.jpg"
+  },
+  {
+    "id": "14",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/0b/b9/75/0bb9750a12c9f6c76b9f933ed37e0033.jpg"
+  },
+  {
+    "id": "15",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/1e/10/06/1e10069e291edef89979ee33a1ca3679.jpg"
+  },
+  {
+    "id": "16",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/81/94/24/81942401a203fbaef6045e59bc9a5bdf.jpg"
+  },
+  {
+    "id": "17",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/cc/2e/a7/cc2ea721006c17c256344a959a370e23.jpg"
+  },
+  {
+    "id": "18",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/65/02/f0/6502f0a805a5afdda6f021079244912d.jpg"
+  },
+  {
+    "id": "19",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/77/6d/49/776d49a9706e0164e11879fe3d67edf6.jpg"
+  },
+  {
+    "id": "20",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/e2/54/8b/e2548be1bdb7e90b240939eb907c5e7e.jpg"
+  },
+  {
+    "id": "21",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/43/a1/af/43a1af04eb01005210db434087d2f821.jpg"
+  },
+  {
+    "id": "22",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/97/36/64/973664681e4a88935096d27a55a05970.jpg"
+  },
+  {
+    "id": "23",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/6f/39/fd/6f39fd24971a868ef27a6f858dd71fcc.jpg"
+  },
+  {
+    "id": "24",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/b0/92/d7/b092d7cf88f2b228ba8be2899d25db29.jpg"
+  },
+  {
+    "id": "25",
+    "name_category": "Kdrama",
     "title": "",
 
     "image": "https://i.pinimg.com/564x/bb/cf/71/bbcf717c9fecc4820e17ba8a949c3f1e.jpg"
   },
   {
-    "id": "3",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/3d/3e/d1/3d3ed14e8af42a780f37ecdfcf258f34.jpg"
-  },
-  {
-    "id": "4",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/8c/31/db/8c31dbe4429412b565c586e8399fff04.jpg"
-  },
-  {
-    "id": "5",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/71/ee/4d/71ee4dcc20c47d58f23f11a6d055463b.jpg"
-  },
-  {
-    "id": "6",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/46/21/f2/4621f2414ef634a6d740b037373ea8f8.jpg"
-  },
-  {
-    "id": "7",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/55/bd/43/55bd4392f1ad2fdd4444ce1bf2c3bb0b.jpg"
-  },
-  {
-    "id": "8",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/33/0a/d1/330ad1c18142ca903cad79d07f7615ad.jpg"
-  },
-  {
-    "id": "9",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/53/7c/11/537c11392a4a52919a3c1cc992df6c10.jpg"
-  },
-  {
-    "id": "10",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/61/24/84/61248477037ec059e1e87c0813c9d72e.jpg"
-  },
-  {
-    "id": "11",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/45/b9/b5/45b9b53786e98310526b89063f2cfada.jpg"
-  },
-  {
-    "id": "12",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/6c/c4/0b/6cc40bb2f80e3d2d5ad167c1022c87bf.jpg"
-  },
-  {
-    "id": "13",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/2b/ac/31/2bac31e2394c6adbb2638be3e0ac897a.jpg"
-  },
-  {
-    "id": "14",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/54/49/d0/5449d087ab80bdafd3c0ed55d5c77103.jpg"
-  },
-  {
-    "id": "15",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/e8/11/42/e811422b18236e5fbe8cf7e13f21d080.jpg"
-  },
-  {
-    "id": "16",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/f5/70/f4/f570f40769064e4d2136bc6344023c00.jpg"
-  },
-  {
-    "id": "17",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/5f/d9/dc/5fd9dc0ccaf90329552f8eeb5e3ec40c.jpg"
-  },
-  {
-    "id": "18",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/bd/10/92/bd109215b85aad6022e0e70c51002497.jpg"
-  },
-  {
-    "id": "19",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/b5/58/54/b55854f5af82ddf82f337e5a18f9ec82.jpg"
-  },
-  {
-    "id": "20",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/d1/75/2c/d1752c95b368c5a765810abd0f6abc98.jpg"
-  },
-  {
-    "id": "21",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/6c/c4/0b/6cc40bb2f80e3d2d5ad167c1022c87bf.jpg"
-  },
-  {
-    "id": "22",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/58/eb/76/58eb766978f526ac8c0513ef2b2b5a74.jpg"
-  },
-  {
-    "id": "23",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/11/60/2e/11602ef75d85200fb8ceb47713d866ec.jpg"
-  },
-  {
-    "id": "24",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/81/24/09/812409de4542c532938a81f20036134e.jpg"
-  },
-  {
-    "id": "25",
-    "name_category": "Couple",
-    "title": "",
-
-    "image": "https://i.pinimg.com/564x/5c/ef/6f/5cef6f7bc07c0fdfe9a8450e812b1af5.jpg"
-  },
-  {
     "id": "26",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/3c/2b/ae/3c2bae3d6f5f618e993fe828cb194325.jpg"
+    "image": "https://i.pinimg.com/564x/fb/9f/1b/fb9f1b32faf1bb533527268057bc20fb.jpg"
   },
   {
     "id": "27",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/1a/96/d3/1a96d34a803bab8448ab963695d1cbe5.jpg"
+    "image": "https://i.pinimg.com/564x/1e/5d/6c/1e5d6c0f45aed236d66741f8945a4d84.jpg"
   },
   {
     "id": "28",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/0f/89/9b/0f899b089609beca534ce1fe0193f048.jpg"
+    "image": "https://i.pinimg.com/564x/7e/db/1d/7edb1da53caad5d8826ba477424d71d9.jpg"
   },
   {
     "id": "29",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/b0/eb/ef/b0ebef5e0accb208d4c1a0ec968c43c3.jpg"
+    "image": "https://i.pinimg.com/564x/c1/ef/4f/c1ef4f29da785b27abbf1e48972aee11.jpg"
   },
   {
     "id": "30",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/da/ae/a3/daaea3181ae05f501cb8360c2c9d7492.jpg"
+    "image": "https://i.pinimg.com/564x/c1/ef/4f/c1ef4f29da785b27abbf1e48972aee11.jpg"
   },
   {
     "id": "31",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/2c/88/4a/2c884a4700b68c425a699646ba644be0.jpg"
+    "image": "https://i.pinimg.com/564x/b8/10/79/b81079297ca9378bc460512b33ebe82f.jpg"
   },
   {
     "id": "32",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/21/b1/48/21b1487f1fea86fc26af17d0a2107a8e.jpg"
+    "image": "https://i.pinimg.com/564x/4a/d3/9d/4ad39d438df6145e9866ef2e5d056220.jpg"
   },
   {
     "id": "33",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/00/9b/5f/009b5f88dea991fc82e77e8df28318a8.jpg"
+    "image": "https://i.pinimg.com/564x/70/8a/4d/708a4d1e133c84b6165473cfc9b36a7e.jpg"
   },
   {
     "id": "34",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/04/93/1c/04931c8040a7a6493c2d1535cd101a4d.jpg"
+    "image": "https://i.pinimg.com/564x/ac/15/eb/ac15ebcd1b069ff56a3470ad9466ac37.jpg"
   },
   {
     "id": "35",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/da/69/8a/da698aafc3edabbd0ab1a9e5c32036db.jpg"
+    "image": "https://i.pinimg.com/564x/95/7c/08/957c080aa0abdb596232678c8c067031.jpg"
   },
   {
     "id": "36",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/3b/92/0f/3b920f827f6e10bc9df45755a75bb9da.jpg"
+    "image": "https://i.pinimg.com/564x/35/a8/4a/35a84ac41370e05a6cd26a3340baf516.jpg"
   },
   {
     "id": "37",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/14/0f/eb/140feb25b82afd8a6768a7e67668cf3b.jpg"
+    "image": "https://i.pinimg.com/564x/25/c6/e1/25c6e1ee5d842918a45a931f8e20b1e7.jpg"
   },
   {
     "id": "38",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": " ",
-    "Couple_site_url": " ",
-    "image": "https://i.pinimg.com/564x/b7/0b/4b/b70b4ba5b81eec0de28ab5ccaeda46be.jpg"
+    "Kdrama_site_url": " ",
+    "image": "https://i.pinimg.com/564x/e1/c8/eb/e1c8eb54a09e14b9ee70a6c67311f02d.jpg"
   },
   {
     "id": "39",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/e4/17/30/e41730eb0c2480324b98caf774592175.jpg"
+    "image": "https://i.pinimg.com/564x/03/05/4d/03054d9b04c005666e3baf32927dcb63.jpg"
   },
   {
     "id": "40",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/63/33/41/63334188207e71b8e1310566a16a4625.jpg"
+    "image": "https://i.pinimg.com/564x/65/9d/ed/659ded2d8299b66af3eabbb98e6d5f33.jpg"
   },
   {
     "id": "41",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/5a/0f/ae/5a0fae4bea5681cb0a8471d52cc2d3d3.jpg"
+    "image": "https://i.pinimg.com/564x/65/5b/47/655b47858d1c57c9d553dde7d9f3fdb5.jpg"
   },
   {
     "id": "42",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/6b/39/16/6b3916ae9c0aff82c19677b6073bdb47.jpg"
+    "image": "https://i.pinimg.com/564x/e8/81/93/e881935e4d849da522805c3532f05dbc.jpg"
   },
   {
     "id": "43",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/30/34/e8/3034e8546c9408c416db70c226758748.jpg"
+    "image": "https://i.pinimg.com/564x/de/53/ce/de53ce2eeb0d6667e05c61439b14744a.jpg"
   },
   {
     "id": "44",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/8f/07/4a/8f074ab8eb1b63350275281f30c860d3.jpg"
+    "image": "https://i.pinimg.com/564x/83/73/a2/8373a29bc01a0a62a39b4b49b9657369.jpg"
   },
     {
     "id": "45",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/43/63/77/43637712e35e16211fbfdb3d567a8709.jpg"
+    "image": "https://i.pinimg.com/564x/24/e2/3e/24e23e2a11ab85b789276c904188425a.jpg"
   },
     {
     "id": "46",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/c7/70/25/c7702507866e47d51457d2efc7e9110e.jpg"
+    "image": "https://i.pinimg.com/564x/ba/99/13/ba99131eecae3601f9ec60a44721093f.jpg"
   },
     {
     "id": "47",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/5a/87/8a/5a878af9b99469273f514dc65d3af82a.jpg"
+    "image": "https://i.pinimg.com/564x/c8/8b/14/c88b14fc0362b0c79f54ca5aa63deb31.jpg"
   },
     {
     "id": "48",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/26/2f/04/262f047e03fa796b6bbf1c54d2755e9a.jpg"
+    "image": "https://i.pinimg.com/564x/ff/c1/94/ffc1946b626e8339f8aacebc37c37e84.jpg"
   },
     {
     "id": "49",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/ec/c5/76/ecc5763f665972e48636e98f95930549.jpg"
+    "image": "https://i.pinimg.com/564x/47/a6/f2/47a6f24b1f12b43b098b6f5c3c1e253e.jpg"
   },
     {
     "id": "50",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/69/68/56/696856067d591cd2408ceed971ed058e.jpg"
+    "image": "https://i.pinimg.com/564x/97/7a/16/977a16cec8af1119034e64868d09c0c9.jpg"
   },
   {
     "id": "51",
-    "name_category": "Couple",
+    "name_category": "Kdrama",
     "title": "",
 
-    "image": "https://i.pinimg.com/564x/3f/7f/cb/3f7fcbed652414e201e87c4665ff4607.jpg"
+    "image": "https://i.pinimg.com/564x/98/de/6e/98de6e221bba9bb4808554ff49fac399.jpg"
+  },
+    {
+    "id": "52",
+    "name_category": "Kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/16/d0/90/16d090e6fea3d21bba1fe73b62f2816c.jpg"
   }
   ]
 }
