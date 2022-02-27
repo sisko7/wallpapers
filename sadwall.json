@@ -1,105 +1,203 @@
 {
-  "Ads": [
-    {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
-  ],
-  "More":
-  [
-    {
-      "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    },
-    {
-      "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    }
-  ],
-
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
-
-    }
-  ],
-
-  "Data":
-  [
-    {
-      "id":1,
-      "name_category": "Nature",
-      "title":"Waterfall",
-      "image":"https://i.pinimg.com/564x/c0/f1/3f/c0f13f0b33f44100004c2f1f2233148e.jpg"
-    },
-    {
-      "id": 2,
-      "name_category": "Nature",
-      "title": "River",
-      "image": "https://i.pinimg.com/564x/d1/2c/eb/d12ceb6c1285f2673d01551f998c66fd.jpg"
-    },
-    {
-      "id":3,
-      "name_category": "Nature",
-      "title":"Mountain",
-      "image":"https://i.pinimg.com/564x/a9/a6/2f/a9a62f2caa398cec207ba9493b9803e7.jpg"
-    },
-    {
-      "id":4,
-      "name_category": "Animal",
-      "title":"Cute Cat",
-      "image":"https://i.pinimg.com/564x/38/cf/db/38cfdb9b28f5588f48fc0a8d88406531.jpg"
-    }
-  ,
-    {
-      "id":5,
-      "name_category": "Animal",
-      "title":"Dog",
-      "image":"https://i.pinimg.com/750x/13/4a/a8/134aa8b5ad696e76be7b9a7fdacf2acf.jpg"
-    },
-    {
-      "id":6,
-      "name_category": "Car",
-      "title":"Super Car",
-      "image":"https://i.pinimg.com/564x/75/93/8b/75938be336dcf813a465609e82638bb2.jpg"
-    }
-  ]
-}
+    "Ads": [
+      {
+        "select_main_ads": "ADMOB",
+        "select_backup_ads":"APPLOVIN-D",
+        "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+        "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+        "backup_ads_banner":"db4d5e8718b97d78",
+        "backup_ads_intertitial":"518cd97722c60b52",
+        "interval_intertitial": 5,
+        "initialize_sdk":"107355779",
+        "initialize_sdk_backup_ads":"",
+        "high_paying_keyword_1": "",
+        "high_paying_keyword_2": "",
+        "high_paying_keyword_3": "",
+        "high_paying_keyword_4": "",
+        "high_paying_keyword_5": "",
+        "status_app": "0",
+        "link_redirect": "https://"
+      }
+    ],
+    "More":
+    [
+      {
+        "id":1,
+        "title":"Sad Music",
+        "image":"https://play-lh.googleusercontent.com/hLWqCu6gIyJpIk5oNdgiPIZ6Dgu-t1Ug3TRu2JOf1FUGcj3EmD82pNU5v8m9Pd7fOQ=s180",
+        "link":"https://play.google.com/store/apps/details?id=net.andromo.dev859428.app977284"
+      },
+      {
+        "id":2,
+        "title":"kpop & korean drama wallpaper ",
+        "image":"https://play-lh.googleusercontent.com/BjtjLk_xEaISIdKfN1tJYwqpnH_KVaf679XWqfzy8hALSq8BMuKYj66-Hgl6Yb1wt6td=s180",
+        "link":"https://play.google.com/store/apps/details?id=net.andromo.dev859428.app979537"
+      },
+      {
+        "id":3,
+        "title":"Couple Wallpapers Offline",
+        "image":"https://play-lh.googleusercontent.com/HRqHJ0RRczU-mdLWe-9GZ58Wl7j0bkju50nWmVEmf6R0j-VclY4gP1UkPVOfIV3IG1s=s180",
+        "link":"https://play.google.com/store/apps/details?id=com.andromo.dev859428.app987011"
+      }
+    ],
+  
+    "Categories": [
+      {
+        "id": 1,
+        "name_category": "Sad",
+        "image": "https://play-lh.googleusercontent.com/OsP1JcFWR3hD4tjKBD_mgRo2DTycw8-GlX0czJL1cHuZxCIHpx_M_PgSNoVOFySR06I=s180"
+  
+      }
+  
+    ],
+  
+    "Data":
+    [
+      {
+        "id":1,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/c0/f1/3f/c0f13f0b33f44100004c2f1f2233148e.jpg"
+      },
+      {
+        "id": 2,
+        "name_category": "Sad",
+        "title": "",
+        "image": "https://i.pinimg.com/564x/d1/2c/eb/d12ceb6c1285f2673d01551f998c66fd.jpg"
+      },
+      {
+        "id":3,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/a9/a6/2f/a9a62f2caa398cec207ba9493b9803e7.jpg"
+      },
+      {
+        "id":4,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/38/cf/db/38cfdb9b28f5588f48fc0a8d88406531.jpg"
+      }
+    ,
+      {
+        "id":5,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/750x/13/4a/a8/134aa8b5ad696e76be7b9a7fdacf2acf.jpg"
+      },
+      {
+        "id":6,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/75/93/8b/75938be336dcf813a465609e82638bb2.jpg"
+      },
+      {
+        "id":7,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/736x/43/6b/28/436b28b7cfc832da491cf558ce247c98.jpg"
+      },
+      {
+        "id":8,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/736x/d8/14/85/d81485bc0c7204a85d69818b89864fd4.jpg"
+      },
+      {
+        "id":9,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/25/7e/12/257e12d82d9de8177c0e69147ac9a8bb.jpg"
+      },
+      {
+        "id":10,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/fb/3d/46/fb3d468d61be87ba37d9211d69b32664.jpg"
+      },
+      {
+        "id":11,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/89/8f/8f/898f8ff213a40c73e612c54d48f007f5.jpg"
+      },
+      {
+        "id":12,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/d0/de/53/d0de536baa241c574970100ae1558259.jpg"
+      },
+      {
+        "id":13,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/c0/5f/c3/c05fc38d56dd86a4f162874553d8ec5c.jpg"
+      },
+      {
+        "id":14,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/16/ca/2c/16ca2c2fd6e8cf5bb717120e1a9a8ffe.jpgv"
+      },
+      {
+        "id":15,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/20/b4/66/20b46633e7b2dd6017f9958f543280cc.jpg"
+      },
+      {
+        "id":16,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/28/48/ad/2848ad414d18ca8a12a43a8b03248b5f.jpg"
+      },
+      {
+        "id":17,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/eb/74/bb/eb74bb72a982b056f3b42e53d0cd7141.jpg"
+      },
+      {
+        "id":18,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/bb/cb/49/bbcb495f7220621d7f3fdfc1bc48b613.jpg"
+      },
+      {
+        "id":19,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/f4/58/55/f4585533ac81775104a487812f995022.jpg"
+      },
+      {
+        "id":20,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/b5/00/d3/b500d3bb810012cb9c899a035d3533c3.jpg"
+      },
+      {
+        "id":21,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/33/af/7a/33af7a07c3562384c73e4677c64febf1.jpg"
+      },
+      {
+        "id":22,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/eb/80/a4/eb80a4442d1974d7ea66c70f4ba7f20d.jpg"
+      },
+      {
+        "id":23,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/7f/2f/13/7f2f13400d851dd23557aa9708ac8e05.jpg"
+      },
+      {
+        "id":24,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/43/ea/8a/43ea8a46e3d90aae4414b66d810cc998.jpg"
+      }
+    ]
+  }
+  
