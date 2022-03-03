@@ -1,11 +1,11 @@
 {
     "Ads": [
       {
-        "select_main_ads": "UNITY",
+        "select_main_ads": "FACEBOOK",
         "select_backup_ads":"APPLOVIN-D",
         "main_ads_banner": "Banner_Android",
-        "main_ads_intertitial":"Interstitial_Android",
-        "backup_ads_banner":"db4d5e8718b97d78",
+        "main_ads_intertitial":"3114078245525991_3116788251921657",
+        "backup_ads_banner":"3114078245525991_3116788161921666",
         "backup_ads_intertitial":"518cd97722c60b52",
         "interval_intertitial": 3,
         "initialize_sdk":"4634169",
