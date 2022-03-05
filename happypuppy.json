@@ -1,0 +1,472 @@
+{
+    "Ads": [
+      {
+        "select_main_ads": "UNITY",
+        "select_backup_ads":"APPLOVIN-D",
+        "main_ads_banner": "Banner_Android",
+        "main_ads_intertitial":"Interstitial_Android",
+        "backup_ads_banner":"db4d5e8718b97d78",
+        "backup_ads_intertitial":"518cd97722c60b52",
+        "interval_intertitial": 3,
+        "initialize_sdk":"4634169",
+        "initialize_sdk_backup_ads":"",
+        "high_paying_keyword_1": "",
+        "high_paying_keyword_2": "",
+        "high_paying_keyword_3": "",
+        "high_paying_keyword_4": "",
+        "high_paying_keyword_5": "",
+        "status_app": "0",
+        "link_redirect": "https://"
+      }
+    ],
+    "More":
+    [
+      {
+        "id":1,
+        "title":"Sad Music",
+        "image":"https://play-lh.googleusercontent.com/hLWqCu6gIyJpIk5oNdgiPIZ6Dgu-t1Ug3TRu2JOf1FUGcj3EmD82pNU5v8m9Pd7fOQ=s180",
+        "link":"https://play.google.com/store/apps/details?id=net.andromo.dev859428.app977284"
+      },
+      {
+        "id":2,
+        "title":"kpop & korean drama wallpaper ",
+        "image":"https://play-lh.googleusercontent.com/BjtjLk_xEaISIdKfN1tJYwqpnH_KVaf679XWqfzy8hALSq8BMuKYj66-Hgl6Yb1wt6td=s180",
+        "link":"https://play.google.com/store/apps/details?id=net.andromo.dev859428.app979537"
+      },
+      {
+        "id":3,
+        "title":"Couple Wallpapers Offline",
+        "image":"https://play-lh.googleusercontent.com/HRqHJ0RRczU-mdLWe-9GZ58Wl7j0bkju50nWmVEmf6R0j-VclY4gP1UkPVOfIV3IG1s=s180",
+        "link":"https://play.google.com/store/apps/details?id=com.andromo.dev859428.app987011"
+      }
+    ],
+  
+    "Categories": [
+      {
+        "id": 1,
+        "name_category": "Sad",
+        "image": "https://play-lh.googleusercontent.com/OsP1JcFWR3hD4tjKBD_mgRo2DTycw8-GlX0czJL1cHuZxCIHpx_M_PgSNoVOFySR06I=s180"
+  
+      }
+  
+    ],
+  
+    "Data":
+    [
+      {
+        "id":1,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/c0/f1/3f/c0f13f0b33f44100004c2f1f2233148e.jpg"
+      },
+      {
+        "id": 2,
+        "name_category": "Sad",
+        "title": "",
+        "image": "https://i.pinimg.com/564x/d1/2c/eb/d12ceb6c1285f2673d01551f998c66fd.jpg"
+      },
+      {
+        "id":3,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/a9/a6/2f/a9a62f2caa398cec207ba9493b9803e7.jpg"
+      },
+      {
+        "id":4,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/38/cf/db/38cfdb9b28f5588f48fc0a8d88406531.jpg"
+      }
+    ,
+      {
+        "id":5,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/750x/13/4a/a8/134aa8b5ad696e76be7b9a7fdacf2acf.jpg"
+      },
+      {
+        "id":6,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/75/93/8b/75938be336dcf813a465609e82638bb2.jpg"
+      },
+      {
+        "id":7,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/736x/43/6b/28/436b28b7cfc832da491cf558ce247c98.jpg"
+      },
+      {
+        "id":8,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/736x/d8/14/85/d81485bc0c7204a85d69818b89864fd4.jpg"
+      },
+      {
+        "id":9,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/25/7e/12/257e12d82d9de8177c0e69147ac9a8bb.jpg"
+      },
+      {
+        "id":10,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/fb/3d/46/fb3d468d61be87ba37d9211d69b32664.jpg"
+      },
+      {
+        "id":11,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/89/8f/8f/898f8ff213a40c73e612c54d48f007f5.jpg"
+      },
+      {
+        "id":12,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/d0/de/53/d0de536baa241c574970100ae1558259.jpg"
+      },
+      {
+        "id":13,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/c0/5f/c3/c05fc38d56dd86a4f162874553d8ec5c.jpg"
+      },
+      {
+        "id":14,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/16/ca/2c/16ca2c2fd6e8cf5bb717120e1a9a8ffe.jpgv"
+      },
+      {
+        "id":15,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/20/b4/66/20b46633e7b2dd6017f9958f543280cc.jpg"
+      },
+      {
+        "id":16,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/28/48/ad/2848ad414d18ca8a12a43a8b03248b5f.jpg"
+      },
+      {
+        "id":17,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/eb/74/bb/eb74bb72a982b056f3b42e53d0cd7141.jpg"
+      },
+      {
+        "id":18,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/bb/cb/49/bbcb495f7220621d7f3fdfc1bc48b613.jpg"
+      },
+      {
+        "id":19,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/f4/58/55/f4585533ac81775104a487812f995022.jpg"
+      },
+      {
+        "id":20,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/b5/00/d3/b500d3bb810012cb9c899a035d3533c3.jpg"
+      },
+      {
+        "id":21,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/33/af/7a/33af7a07c3562384c73e4677c64febf1.jpg"
+      },
+      {
+        "id":22,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/eb/80/a4/eb80a4442d1974d7ea66c70f4ba7f20d.jpg"
+      },
+      {
+        "id":23,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/7f/2f/13/7f2f13400d851dd23557aa9708ac8e05.jpg"
+      },
+      {
+        "id":24,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/43/ea/8a/43ea8a46e3d90aae4414b66d810cc998.jpg"
+      },
+      {
+        "id":25,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/3c/6d/c9/3c6dc9e6363d85d6e5eb0726b8781ab2.jpg"
+      },
+      {
+        "id":26,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/00/fd/49/00fd49ee68ba8ce68fad84e91f3eb0e0.jpg"
+      },
+      {
+        "id":27,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/f6/9d/0f/f69d0fc9f3d22c8f5d31f09f08f94d3d.jpg"
+      },
+      {
+        "id":28,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/e9/75/8a/e9758a56d8d4b647c4cae24aecc3016a.jpg"
+      },
+      {
+        "id":29,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/f3/b9/08/f3b9088483d1cd46e22f949caa9240b3.jpg"
+      },
+      {
+        "id":30,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/87/25/80/872580e4aefe843bc73e0347ba39db3e.jpg"
+      },
+      {
+        "id":31,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/e7/c1/0a/e7c10a68c7ec869024d596a7437192af.jpg"
+      },
+      {
+        "id":32,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/43/3c/53/433c53b0ceca7e65b2c7c2d6514e952a.jpg"
+      },
+      {
+        "id":33,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/93/74/41/9374418b4990fab2e194f52eb255c83f.jpg"
+      },
+      {
+        "id":34,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/ec/4d/1c/ec4d1c12438a366a6873c3c45b0a450f.jpg"
+      },
+      {
+        "id":35,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/78/58/da/7858da10a6d8dc3a7b3d06c437dcf5c7.jpg"
+      },
+      {
+        "id":36,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/7a/fa/1d/7afa1df0f784ced1a31eecb7e1d0a8ed.jpg"
+      },
+      {
+        "id":37,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/b2/0b/38/b20b38ba79815a4821f8b8fdd4a20eff.jpg"
+      },
+      {
+        "id":38,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/8a/c3/34/8ac334ca89f0abf4174f3c8926168ff4.jpg"
+      },
+      {
+        "id":39,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/cd/6c/fa/cd6cfa8831ce64a6932207d82541caf3.jpg"
+      },
+      {
+        "id":40,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/38/e0/0b/38e00b4e14dc5c0d43088b5b7da07256.jpg"
+      },
+      {
+        "id":41,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/8f/36/59/8f3659d1aba0ab1418a7553c60422a3f.jpg"
+      },
+      {
+        "id":42,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/6c/2b/03/6c2b03a90e0854f5838307635c71a9d4.jpg"
+      },
+      {
+        "id":43,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/eb/6a/09/eb6a09ff1f2b7cadb190d629b82ea6ae.jpg"
+      },
+      {
+        "id":44,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/96/d2/23/96d223fffb3081f56d1173c4eb51dbe2.jpg"
+      },
+      {
+        "id":45,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/3c/6b/df/3c6bdff7c9b43d8336688275271a306e.jpg"
+      },
+      {
+        "id":56,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/bb/56/43/bb5643a0534c808eec6677f22331209c.jpg"
+      },
+      {
+        "id":57,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/750x/05/a7/9d/05a79dcd771d62ca799e2675d5466b54.jpg"
+      },
+      {
+        "id":58,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/63/b5/52/63b552618af0260ef29467496640f3c7.jpg"
+      },
+      {
+        "id":59,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/68/1f/8d/681f8d5c479a443fad92ef640bbb5781.jpg"
+      },
+      {
+        "id":60,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/94/89/25/948925d80ee732eb97f4444274d24115.jpg"
+      },
+      {
+        "id":61,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/c5/58/94/c5589427248ed985989c348a8fb5c617.jpg"
+      },
+      {
+        "id":62,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/b4/33/a9/b433a9d162079637fb6bb94401919e56.jpg"
+      },      {
+        "id":63,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/2d/dc/e9/2ddce9c776b0d539276a0a28022dcba4.jpg"
+      },
+      {
+        "id":64,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/16/93/47/169347a7329ff6cd1fdcd0580aed11ac.jpg"
+      },
+      {
+        "id":65,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/53/10/7d/53107d443b4a9bf5a790bb55a3bf7868.jpg"
+      },
+      {
+        "id":66,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/63/b5/52/63b552618af0260ef29467496640f3c7.jpg"
+      },
+      {
+        "id":67,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/750x/cb/0b/00/cb0b00ad022007398c8d7218a0758a3d.jpg"
+      },
+      {
+        "id":67,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/dc/d6/34/dcd6340335eb8a4555cf5efcda7a06a1.jpg"
+      },
+      {
+        "id":68,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/5a/fb/ec/5afbec2739b33867495947e2bc8f73ba.jpg"
+      },
+      {
+        "id":69,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/74/35/1c/74351c14cf2603281ec06142335d4485.jpg"
+      },
+      {
+        "id":70,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/df/c2/75/dfc275a4d39f2d0381cd64227ab7fdbf.jpg"
+      },
+      {
+        "id":80,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/75/8c/97/758c97ded757e281222855e8417652f3.jpg"
+      },
+      {
+        "id":81,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/df/ec/8a/dfec8ab8544383fff306ff22c385f6d2.jpg"
+      },
+      {
+        "id":82,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/e6/f0/25/e6f025125a886064e18247248e595562.jpg"
+      },
+      {
+        "id":83,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/f5/81/dc/f581dc8756729ca5ac5fe7d2970b06f6.jpg"
+      },
+      {
+        "id":84,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/af/d9/de/afd9de56a5af9729a00204d7bcf8104f.jpg"
+      },
+      {
+        "id":85,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/eb/80/a4/eb80a4442d1974d7ea66c70f4ba7f20d.jpg"
+      },
+      {
+        "id":86,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/bd/cf/56/bdcf56ad8f19db99cf7bad34b7d3cc46.jpg"
+      },
+      {
+        "id":86,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/13/1c/a2/131ca2a3253d03555999c9bbf6d0be80.jpg"
+      }
+    ]
+  }
+  
