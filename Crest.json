@@ -1,0 +1,143 @@
+{
+    "Ads": [
+      {
+        "select_main_ads": "UNITY",
+        "select_backup_ads":"APPLOVIN-D",
+        "main_ads_banner": "Banner_Android",
+        "main_ads_intertitial":"Interstitial_Android",
+        "backup_ads_banner":"db4d5e8718b97d78",
+        "backup_ads_intertitial":"518cd97722c60b52",
+        "interval_intertitial": 3,
+        "initialize_sdk":"4634169",
+        "initialize_sdk_backup_ads":"",
+        "high_paying_keyword_1": "",
+        "high_paying_keyword_2": "",
+        "high_paying_keyword_3": "",
+        "high_paying_keyword_4": "",
+        "high_paying_keyword_5": "",
+        "status_app": "0",
+        "link_redirect": "https://"
+      }
+    ],
+    "More":
+    [
+      {
+        "id":1,
+        "title":"Sad Music",
+        "image":"https://play-lh.googleusercontent.com/hLWqCu6gIyJpIk5oNdgiPIZ6Dgu-t1Ug3TRu2JOf1FUGcj3EmD82pNU5v8m9Pd7fOQ=s180",
+        "link":"https://play.google.com/store/apps/details?id=net.andromo.dev859428.app977284"
+      },
+      {
+        "id":2,
+        "title":"kpop & korean drama wallpaper ",
+        "image":"https://play-lh.googleusercontent.com/BjtjLk_xEaISIdKfN1tJYwqpnH_KVaf679XWqfzy8hALSq8BMuKYj66-Hgl6Yb1wt6td=s180",
+        "link":"https://play.google.com/store/apps/details?id=net.andromo.dev859428.app979537"
+      },
+      {
+        "id":3,
+        "title":"Couple Wallpapers Offline",
+        "image":"https://play-lh.googleusercontent.com/HRqHJ0RRczU-mdLWe-9GZ58Wl7j0bkju50nWmVEmf6R0j-VclY4gP1UkPVOfIV3IG1s=s180",
+        "link":"https://play.google.com/store/apps/details?id=com.andromo.dev859428.app987011"
+      }
+    ],
+  
+    "Categories": [
+      {
+        "id": 1,
+        "name_category": "Wallpapers",
+        "image": "https://play-lh.googleusercontent.com/OsP1JcFWR3hD4tjKBD_mgRo2DTycw8-GlX0czJL1cHuZxCIHpx_M_PgSNoVOFySR06I=s180"
+  
+      }
+  
+    ],
+  
+    "Data":
+    [
+      {
+        "id":1,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/95/a3/ae/95a3ae06aa760f1d98dcff9d512e8f1d.jpg"
+      },
+      {
+        "id": 2,
+        "name_category": "Sad",
+        "title": "",
+        "image": "https://i.pinimg.com/564x/f8/69/96/f86996c293c4c3dac24e03099a4f1a01.jpg"
+      },
+      {
+        "id":3,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/43/63/ce/4363ce1bd079e54c1a40ee8eaa60041c.jpg"
+      },
+      {
+        "id":4,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/32/56/b1/3256b135bf86da60fe734723090bb8aa.jpg"
+      }
+    ,
+      {
+        "id":5,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/d6/3d/98/d63d98bef3c4855f1be6b3f1e8c43d64.jpg"
+      },
+      {
+        "id":6,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/48/f7/a3/48f7a3ffe738c8f4f12c9890c5295e87.jpg"
+      },
+      {
+        "id":7,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/bb/97/fe/bb97fe32da6723c13aa399746abd33aa.jpg"
+      },
+      {
+        "id":8,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/18/74/ef/1874ef5b095291642350aab399f697a0.jpg"
+      },
+      {
+        "id":9,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/e9/7a/9f/e97a9f7e9e5ca0f112f24f2f684822ac.jpg"
+      },
+      {
+        "id":10,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/d4/ee/58/d4ee58f62d0fb8d039daef9ef28e0a1c.jpg"
+      },
+      {
+        "id":11,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/c5/ff/d9/c5ffd9ca0e398c2ef7a7bd79870b7cc3.jpg"
+      },
+      {
+        "id":12,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/4c/f5/15/4cf515532158572fce28f5a51dde3fd8.jpg"
+      },
+      {
+        "id":13,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/ab/49/a9/ab49a939ecbcaa06499116b0e03b56c5.jpg"
+      },
+      {
+        "id":14,
+        "name_category": "Sad",
+        "title":"",
+        "image":"https://i.pinimg.com/564x/a1/da/fd/a1dafd39852bf8c4d6b618a43ea55d3d.jpg"
+      }
+    ]
+  }
+  
