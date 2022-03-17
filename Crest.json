@@ -1,12 +1,12 @@
 {
     "Ads": [
       {
-        "select_main_ads": "UNITY",
-        "select_backup_ads":"APPLOVIN-D",
-        "main_ads_banner": "Banner_Android",
-        "main_ads_intertitial":"Interstitial_Android",
-        "backup_ads_banner":"db4d5e8718b97d78",
-        "backup_ads_intertitial":"518cd97722c60b52",
+        "select_main_ads": "UNsY",
+        "select_backup_ads":"AdLOVIN-D",
+        "main_ads_banner": "Bandr_Android",
+        "main_ads_intertitial":"Interdal_Android",
+        "backup_ads_banner":"db4d5ed18b97d78",
+        "backup_ads_intertitial":"51dd97722c60b52",
         "interval_intertitial": 3,
         "initialize_sdk":"4634169",
         "initialize_sdk_backup_ads":"",
@@ -70,37 +70,6 @@
         "name_category": "Anime",
         "title":"",
         "image":"https://i.pinimg.com/564x/73/af/42/73af423e1a6de2ff7de21974d8ca8fe2.jpg"
-      },
-      {
-        "id":4,
-        "name_category": "Anime",
-        "title":"",
-        "image":"https://i.pinimg.com/564x/2a/e0/6d/2ae06d86cc6441201129fea4bd10a6de.jpg"
-      }
-    ,
-      {
-        "id":5,
-        "name_category": "Anime",
-        "title":"",
-        "image":"https://i.pinimg.com/564x/8a/a4/a5/8aa4a52d07be9affd0cc31d4610ba5a5.jpg"
-      },
-      {
-        "id":6,
-        "name_category": "Anime",
-        "title":"",
-        "image":"https://i.pinimg.com/564x/84/82/cc/8482ccbb4e4c97f91516918bf38e20bb.jpg"
-      },
-      {
-        "id":7,
-        "name_category": "Anime",
-        "title":"",
-        "image":"https://i.pinimg.com/564x/67/a9/75/67a975e0f0e82eac703b99f23e043f91.jpg"
-      },
-      {
-        "id":8,
-        "name_category": "Anime",
-        "title":"",
-        "image":"https://i.pinimg.com/564x/31/b1/aa/31b1aa015e63a616780ef3e6b56939b7.jpg"
       }
     ]
   }
