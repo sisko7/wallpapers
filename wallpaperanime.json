@@ -1,14 +1,14 @@
 {
 	"blog": {
 		"blogger_id": "2357192409700929660",
-		"api_key": "AIzaSyBsjU2WfDEIfJ6dWpkv4duBpfOIVO1tF6c"
+		"api_key": " AIzaSyDv9lBTFCA3noshd4lFE0vua-j22dtKneo"
 	},
 	"app": {
 		"status": "1",
-		"more_apps_url": "https://play.google.com/store/apps/developer?id=Solodroid",
+		"more_apps_url": "https://play.google.com/store/apps/developer?id=HappyApps+Studio",
 		"redirect_url": "",
 		"privacy_policy_url": "https://sites.google.com/view/blogger-wallpaper-app-privacy",
-		"display_wallpaper_name": "true",
+		"display_wallpaper_name": "false",
 		"center_crop_wallpaper": "true",
 		"custom_label_list": "false"
 	},
@@ -38,20 +38,20 @@
 	},
 	"labels": [
 	    {
-			"term": "Motorola",
-			"image": "https://i.ibb.co/kcsWQWL/cat-motorola.jpg"
+			"term": "One Piece",
+			"image": "https://i1.sndcdn.com/avatars-000298379187-3f4um6-t240x240.jpg"
 		},
 		{
-			"term": "Oppo",
-			"image": "https://i.ibb.co/T0ZVwjy/cat-oppo.jpg"
+			"term": "Hunter x Hunter",
+			"image": "https://biolibre.fr/images/articles/hunter_x_hunter.jpeg"
 		},
 		{
-			"term": "Samsung",
-			"image": "https://i.ibb.co/RcpbHmb/cat-samsung.jpg"
+			"term": "Demon slayer",
+			"image": "https://topdata.news/wp-content/uploads/2022/01/Demon-Slayer-Season-3-Episode-7-Release-Date-Spoilers-Recap-and-2FF4JO-1.jpg"
 		},
 		{
-			"term": "Android",
-			"image": "https://i.ibb.co/prG2X8Z/cat-android.jpg"
+			"term": "boku no hero academia",
+			"image": "https://fr.web.img2.acsta.net/newsv7/21/04/19/15/42/5381852.jpg"
 		},
 		{
 			"term": "Google",
