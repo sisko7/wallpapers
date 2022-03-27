@@ -18,7 +18,7 @@
 	},
 	"ads": {
 		"ad_status": "1",
-		"ad_type": "unity",
+		"ad_type": "startapp",
 		"backup_ads": "none",
 		"admob_publisher_id": "pub-3940256099942544",
 		"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
@@ -26,7 +26,7 @@
 		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
 		"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
 		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
-		"startapp_app_id": "0",
+		"startapp_app_id": "202364923",
 		"unity_game_id": "4677567",
 		"unity_banner_placement_id": "banner",
 		"unity_interstitial_placement_id": "video",
@@ -34,7 +34,7 @@
 		"applovin_interstitial_ad_unit_id": "0",
 		"mopub_banner_ad_unit_id": "b195f8dd8ded45fe847ad89ed1d016da",
 		"mopub_interstitial_ad_unit_id": "24534e1901884e398f1253216226017e",
-		"interstitial_ad_interval": 6
+		"interstitial_ad_interval": 4
 	},
 	"labels": [
 	    {
