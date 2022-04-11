@@ -25,8 +25,20 @@
   ],
   "DATA": [
     {
-      "title_search": "tree",
-      "image_url": "https://www.thespruce.com/thmb/2fz1zlPNq7cj7QkLAtKdqYrKvs0=/3704x2778/smart/filters:no_upscale()/the-difference-between-trees-and-shrubs-3269804-hero-a4000090f0714f59a8ec6201ad250d90.jpg"
+      "title_search": "one piece",
+      "image_url": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/11/should-you-watch-one-piece.jpg"
+    },
+	      {
+      "title_search": "attack on titan",
+      "image_url": "https://img1.ak.crunchyroll.com/i/spire3/dac363972d628a7009e04fdeb9d7104a1641869274_main.jpg"
+    },
+	      {
+      "title_search": "Naruto",
+      "image_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/01/Naruto-Zodiac-Signs.jpg"
+    },
+	      {
+      "title_search": "black clover",
+      "image_url": "https://images.saymedia-content.com/.image/t_share/MTc0NDUyOTAzMjQ1Nzg0NzEw/animes-like-black-clover.jpg"
     },
    
   ]
